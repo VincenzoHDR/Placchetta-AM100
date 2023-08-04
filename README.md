@@ -34,7 +34,7 @@ T1 D=20. CR=0.4 - ZMIN=-4.9 - fresa)
 
 ## FASE 1
 
-## PRESA IN MORSA
+# PRESA IN MORSA
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/1dcea219-84bc-436c-8594-b056e18f5b61)
 
@@ -42,10 +42,21 @@ T1 D=20. CR=0.4 - ZMIN=-4.9 - fresa)
 
 L'origine del pezzo è stata ottenuta tramite i software presenti nel menù VPS delle macchine HAAS
 
-## SPIANATURA
+# SPIANATURA
 
 Rimozione 2mm superficiali lasciando 0.1mm di sovrametallo
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/3d7e55a5-45c6-4724-be5f-753202202d38)
 
-##  SGROSSATURA E FINITURA PROFILO
+# SGROSSATURA E FINITURA PROFILO
+
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/b0fe327c-8911-4785-acc9-079400cdd348)
+
+# RIMOZIONE MATERIALE GREZZO
+
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/571c7ac3-7c9c-4ccb-9c79-30f3fb2b4fc4)
+
+
+
+
+
