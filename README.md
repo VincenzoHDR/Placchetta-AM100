@@ -46,15 +46,30 @@ L'origine del pezzo è stata ottenuta tramite i software presenti nel menù VPS 
 
 Rimozione 2mm superficiali lasciando 0.1mm di sovrametallo
 
-![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/3d7e55a5-45c6-4724-be5f-753202202d38)
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/a7cb034d-8925-4543-aba7-6223c36408e5)
 
 # SGROSSATURA E FINITURA PROFILO
 
-![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/b0fe327c-8911-4785-acc9-079400cdd348)
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/603c59e7-7472-4525-bb14-618bd1e3e7ce)
 
-# RIMOZIONE MATERIALE GREZZO
+# RIMOZIONE MATERIALE GREZZO LATERALE
 
-![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/571c7ac3-7c9c-4ccb-9c79-30f3fb2b4fc4)
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/26cf86eb-8417-4ea6-be85-b28e5a02153f)
+
+# PREFORI M8
+
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/c467272f-bcea-4e69-8db5-c38758a97d45)
+
+# SMUSSATURA 0.5*45°
+
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/9926bc83-9235-4744-9caa-a99fb0c598e2)
+
+# MASCHIATURA M8
+
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/8c4f5b03-53d8-4521-a361-110c5c365360)
+
+# INCISIONE LOGO CENTERAIO
+
 
 
 
