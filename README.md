@@ -32,71 +32,71 @@ T1 D=20. CR=0.4 - ZMIN=-4.9 - fresa)
 (T10 D=6. CR=3. - ZMIN=-11. - Ispezione)
 
 
-## FASE 1
+# FASE 1
 
-# PRESA IN MORSA
+## PRESA IN MORSA
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/1dcea219-84bc-436c-8594-b056e18f5b61)
 
-# ORIGINE PEZZO 
+## ORIGINE PEZZO 
 
 L'origine del pezzo è stata ottenuta tramite i software presenti nel menù VPS delle macchine HAAS
 
-# SPIANATURA
+## SPIANATURA
 
 Rimozione 2mm superficiali lasciando 0.1mm di sovrametallo
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/a7cb034d-8925-4543-aba7-6223c36408e5)
 
-# SGROSSATURA E FINITURA PROFILO
+## SGROSSATURA E FINITURA PROFILO
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/603c59e7-7472-4525-bb14-618bd1e3e7ce)
 
-# RIMOZIONE MATERIALE GREZZO LATERALE
+## RIMOZIONE MATERIALE GREZZO LATERALE
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/26cf86eb-8417-4ea6-be85-b28e5a02153f)
 
-# PREFORI M8
+## PREFORI M8
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/c467272f-bcea-4e69-8db5-c38758a97d45)
 
-# SMUSSATURA 0.5*45°
+## SMUSSATURA 0.5*45°
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/9926bc83-9235-4744-9caa-a99fb0c598e2)
 
-# MASCHIATURA M8
+## MASCHIATURA M8
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/8c4f5b03-53d8-4521-a361-110c5c365360)
 
-# INCISIONE LOGO CENTERAIO
+## INCISIONE LOGO CENTERAIO
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/657a74c8-54d5-4b5f-b4a9-7bac4fde5ec6)
 
-# FINITURA SUPERFICIALE
+## FINITURA SUPERFICIALE
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/4f2ec0f9-36fc-42c6-8ee9-bb9c0059a0cc)
 
 Dopo la finitura è stato ritenuto necessario passare della carta vetrata fine al fine di rimuovere i segni lasciati del passaggio della fresa
 
-## FASE 2
+# FASE 2
 
 Al fine di rimuovere il materiale grezzo sottostante ed eseguire altre operazioni rimuoviamo il pezzo dalla morsa viene girato e ripreso in morsa
 
-# PRESA IN MORSA 
+## PRESA IN MORSA 
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/8a9d914e-38ab-4b60-9268-57d7c506b52f)
 
-# ORIGINE PEZZO
+## ORIGINE PEZZO
 
 Sempre attraverso i software presenti nel menù VPS della macchina in utilizzo ottendo così l'origine del pezzo
 
-# SPIANATURA
+## SPIANATURA
 
 Attivando passate multiple (2mm) andiamo a rimuovere il grezzi sottostante
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/f67ff7f6-233c-484d-953d-20cab17dc440)
 
-# ORIGINE PEZZO (Sul Finito)
+## ORIGINE PEZZO (Sul Finito)
 
 Per ottenere una maggiore precisione nelle lavorazioni successive attraverso le funzioni di Fusion360 andiamo a creare una nuova origine sulla superficie del finito prima sulla superficie del pezzo e poi sui lati
 
@@ -104,11 +104,11 @@ Per ottenere una maggiore precisione nelle lavorazioni successive attraverso le 
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/76919504-556a-48a2-a21a-fefb30ea29df)
 
-# RIMOZIONI DI BAVE LASCIATE DAL PROCESSO DI SPIANATURA
+## RIMOZIONI DI BAVE LASCIATE DAL PROCESSO DI SPIANATURA
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/c2832be4-0cb3-4248-a5dd-6c07942d9904)
 
-# CREAZIONE DI DUE TASCHE CENTRALI
+## CREAZIONE DI DUE TASCHE CENTRALI
 
 Il fine ultimo della creazione di queste due tasche è quello di ridurre il peso della placchetta
 
@@ -116,13 +116,13 @@ Il fine ultimo della creazione di queste due tasche è quello di ridurre il peso
 
 Le linee in rosso stanno ad indicare che la fresa sta lavorando con un movimento elicoidale
 
-# FINITURA DELLE SUPERFICI
+## FINITURA DELLE SUPERFICI
 
 Rimozione dei sovrametalli
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/dc2ab212-fc20-44d4-84d1-1711ddfcd02a)
 
-# SMUSSATURA 0.5*45°
+## SMUSSATURA 0.5*45°
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/568cb684-233c-484a-9edf-b52506eef5ff)
 
