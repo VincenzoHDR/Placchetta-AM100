@@ -38,7 +38,7 @@ T1 D=20. CR=0.4 - ZMIN=-4.9 - fresa)
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/1dcea219-84bc-436c-8594-b056e18f5b61)
 
-## ORIGINE PEZZO 
+# ORIGINE PEZZO 
 
 L'origine del pezzo è stata ottenuta tramite i software presenti nel menù VPS delle macchine HAAS
 
@@ -79,5 +79,67 @@ Rimozione 2mm superficiali lasciando 0.1mm di sovrametallo
 Dopo la finitura è stato ritenuto necessario passare della carta vetrata fine al fine di rimuovere i segni lasciati del passaggio della fresa
 
 ## FASE 2
+
+Al fine di rimuovere il materiale grezzo sottostante ed eseguire altre operazioni rimosso il pezzo dalla morsa viene girato e ripreso in morsa
+
+# PRESA IN MORSA 
+
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/8a9d914e-38ab-4b60-9268-57d7c506b52f)
+
+# ORIGINE PEZZO
+
+Sempre attraverso i software presenti nel menù VPS della macchina in utilizzo otteniamo l'origine del pezzo
+
+# SPIANATURA
+
+Attivando passate multiple (2mm) andiamo a rimuovere il grezzi sottostante
+
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/f67ff7f6-233c-484d-953d-20cab17dc440)
+
+# ORIGINE PEZZO (Sul Finito)
+
+Per ottenere una maggiore precisione nelle lavorazioni successive attraverso le funzioni di Fusion360 andiamo a creare una nuova origine sulla superficie del finito prima sulla superficie del pezzo e poi sui lati
+
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/744c834d-42cd-4128-bfae-aeb637cb6bde)
+
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/76919504-556a-48a2-a21a-fefb30ea29df)
+
+# RIMOZIONI DI BAVE LASCIATE DAL PROCESSO DI SPIANATURA
+
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/c2832be4-0cb3-4248-a5dd-6c07942d9904)
+
+# CREAZIONE DI DUE TASCHE CENTRALI
+
+Il fine ultimo della creazione di queste due tasche è quello di ridurre il peso della placchetta
+
+![image](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/d91e1bed-0380-4e57-880c-8ca9cc405f13)
+
+Le linee in rosso stanno ad indicare che la fresa sta lavorando con un movimento elicoidale
+
+# FINITURA DELLE SUPERFICI
+
+Rimozione dei sovrametalli
+
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/dc2ab212-fc20-44d4-84d1-1711ddfcd02a)
+
+# SMUSSATURA 0.5*45°
+
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/568cb684-233c-484a-9edf-b52506eef5ff)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
