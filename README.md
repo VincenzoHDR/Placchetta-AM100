@@ -98,7 +98,7 @@ Attivando passate multiple (2mm) andiamo a rimuovere il grezzo sottostante
 
 ## ORIGINE PEZZO (Sul Finito)
 
-Per ottenere una maggiore precisione nelle lavorazioni successive attraverso le funzioni di Fusion360 andiamo a creare una nuova origine sulla superficie del finito prima sulla superficie del pezzo e poi sui lati
+Per ottenere una maggiore precisione nelle lavorazioni successive attraverso le funzioni di Fusion360 andiamo a creare una nuova origine sulla superficie del finito e poi sui lati
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/744c834d-42cd-4128-bfae-aeb637cb6bde)
 
