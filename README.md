@@ -88,7 +88,7 @@ Al fine di rimuovere il materiale grezzo sottostante ed eseguire altre operazion
 
 # ORIGINE PEZZO
 
-Sempre attraverso i software presenti nel menù VPS della macchina in utilizzo otteniamo l'origine del pezzo
+Sempre attraverso i software presenti nel menù VPS della macchina in utilizzo ottendo così l'origine del pezzo
 
 # SPIANATURA
 
