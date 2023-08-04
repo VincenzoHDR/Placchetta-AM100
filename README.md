@@ -1,6 +1,8 @@
 # Placchetta-AM100
 Produzione e Realizzazione placchetta commemorativa Centenario Aeronautica
 
+Grezzo: 100mm x 80mm x 16mm
+
 
 ## UTENSILI
 
@@ -28,3 +30,22 @@ T1 D=20. CR=0.4 - ZMIN=-4.9 - fresa)
 (T7 D=8. CR=0. TAPER=45deg - ZMIN=-10. - utensile per smusso)
 
 (T10 D=6. CR=3. - ZMIN=-11. - Ispezione)
+
+
+## FASE 1
+
+## PRESA IN MORSA
+
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/1dcea219-84bc-436c-8594-b056e18f5b61)
+
+## ORIGINE PEZZO 
+
+L'origine del pezzo è stata ottenuta tramite i software presenti nel menù VPS delle macchine HAAS
+
+## SPIANATURA
+
+Rimozione 2mm superficiali lasciando 0.1mm di sovrametallo
+
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/3d7e55a5-45c6-4724-be5f-753202202d38)
+
+##  SGROSSATURA E FINITURA PROFILO
