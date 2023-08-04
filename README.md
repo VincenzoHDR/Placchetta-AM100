@@ -92,7 +92,7 @@ Sempre attraverso i software presenti nel menù VPS della macchina in utilizzo a
 
 ## SPIANATURA
 
-Attivando passate multiple (2mm) andiamo a rimuovere il grezzi sottostante
+Attivando passate multiple (2mm) andiamo a rimuovere il grezzo sottostante
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/f67ff7f6-233c-484d-953d-20cab17dc440)
 
