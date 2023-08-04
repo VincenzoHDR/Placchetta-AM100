@@ -70,8 +70,14 @@ Rimozione 2mm superficiali lasciando 0.1mm di sovrametallo
 
 # INCISIONE LOGO CENTERAIO
 
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/657a74c8-54d5-4b5f-b4a9-7bac4fde5ec6)
 
+# FINITURA SUPERFICIALE
 
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/4f2ec0f9-36fc-42c6-8ee9-bb9c0059a0cc)
 
+Dopo la finitura è stato ritenuto necessario passare della carta vetrata fine al fine di rimuovere i segni lasciati del passaggio della fresa
+
+## FASE 2
 
 
