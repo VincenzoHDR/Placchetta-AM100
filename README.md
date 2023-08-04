@@ -102,7 +102,7 @@ Per ottenere una maggiore precisione nelle lavorazioni successive attraverso le 
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/744c834d-42cd-4128-bfae-aeb637cb6bde)
 
-![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/76919504-556a-48a2-a21a-fefb30ea29df)
+![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/aadbff47-7dad-4218-851c-312b8a7186c0)
 
 ## RIMOZIONI DI BAVE LASCIATE DAL PROCESSO DI SPIANATURA
 
