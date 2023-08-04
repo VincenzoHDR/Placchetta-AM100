@@ -80,7 +80,7 @@ Dopo la finitura è stato ritenuto necessario passare della carta vetrata fine a
 
 ## FASE 2
 
-Al fine di rimuovere il materiale grezzo sottostante ed eseguire altre operazioni rimosso il pezzo dalla morsa viene girato e ripreso in morsa
+Al fine di rimuovere il materiale grezzo sottostante ed eseguire altre operazioni rimuoviamo il pezzo dalla morsa viene girato e ripreso in morsa
 
 # PRESA IN MORSA 
 
