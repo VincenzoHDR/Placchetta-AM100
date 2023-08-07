@@ -68,7 +68,7 @@ Rimozione 2mm superficiali lasciando 0.1mm di sovrametallo
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/8c4f5b03-53d8-4521-a361-110c5c365360)
 
-## INCISIONE LOGO CENTERAIO
+## INCISIONE LOGO CENTENARIO
 
 ![Cattura](https://github.com/VincenzoHDR/Placchetta-AM100/assets/124595235/657a74c8-54d5-4b5f-b4a9-7bac4fde5ec6)
 
